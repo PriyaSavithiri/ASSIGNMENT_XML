@@ -1,0 +1,37 @@
+[
+   {
+      "NAME": "KATHIR",
+      "JNAME": "DATA ENGINEER",
+      "EXPERIENCEDES": "Worked as data engineer for about 3 yrs in JK soln",
+      "EMAIL": "kathiravan@gmail.com",
+      "CONTACT": "9507899456"
+   },
+   {
+      "NAME": "PRIYA",
+      "JNAME": "SOFTWARE ENGINEER",
+      "EXPERIENCEDES": "NO EXPERIENCE,I'M A FRESHER.",
+      "EMAIL": "priyasavi@gmail.com",
+      "CONTACT": "8790521456"
+   },
+   {
+      "NAME": "PRAVEEN",
+      "JNAME": "SALES EXECUTIVE",
+      "EXPERIENCEDES": "Worked as sales officer for about 7 yrs in ps3 pvt ltd.",
+      "EMAIL": "prav@gmail.com",
+      "CONTACT": "9123567456"
+   },
+   {
+      "NAME": "KARTHIKA",
+      "JNAME": "WEB DESIGNER",
+      "EXPERIENCEDES": "Worked as Web designer for about 1 year in PK developers.",
+      "EMAIL": "kdeepa@gmail.com",
+      "CONTACT": "9051299326"
+   },
+   {
+      "NAME": "GAYATHIRI",
+      "JNAME": "DATA ENGINEER",
+      "EXPERIENCEDES": "NO EXPERIENCE,I'M A FRESHER.",
+      "EMAIL": "gayu@gmail.com",
+      "CONTACT": "8912515786"
+   }
+]

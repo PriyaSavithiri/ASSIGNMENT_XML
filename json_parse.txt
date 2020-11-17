@@ -1,0 +1,11 @@
+
+
+ {
+      "JNAME": "DATA ENGINEER",
+      "DOMAINDES": "We are looking for a savvy Data Engineer to join our growing team of analytics experts. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams.",
+      "CNAME": "RT SOLUTIONS",
+      "VACANCY": "4",
+      "PLACE": "CHENNAI",
+      "EMAIL": "rtsoln@gmail.com",
+      "CONTACT": "9084890767"
+   }

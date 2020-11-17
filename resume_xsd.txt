@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="RESUME">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="CVDETAIL"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CVDETAIL">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="NAME"/>
+        <xs:element ref="JNAME"/>
+        <xs:element ref="EXPERIENCEDES"/>
+        <xs:element ref="EMAIL"/>
+        <xs:element ref="CONTACT"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NAME" type="xs:NCName"/>
+  <xs:element name="JNAME" type="xs:string"/>
+  <xs:element name="EXPERIENCEDES" type="xs:string"/>
+  <xs:element name="EMAIL" type="xs:string"/>
+  <xs:element name="CONTACT" type="xs:integer"/>
+</xs:schema>

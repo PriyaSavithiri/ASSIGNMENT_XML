@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="job.xsl" ?>
+<JOBDETAILS>
+<CD>
+<JNAME>DATA ENGINEER</JNAME>
+<DOMAINDES>We are looking for a savvy Data Engineer to join our growing team of analytics experts. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. </DOMAINDES>
+<CNAME>RT SOLUTIONS</CNAME>
+<VACANCY>4</VACANCY>
+<PLACE>CHENNAI</PLACE>
+<EMAIL>rtsoln@gmail.com</EMAIL>
+<CONTACT>9084890767</CONTACT>
+</CD>
+
+<CD>
+<JNAME>WEB DESIGNER</JNAME>
+<DOMAINDES>Research and understand user behaviors, needs, and motivations through observation techniques, task analysis, and other feedback methodologies Stay abreast of the latest design trends and new media technologies Create proof of concepts for various devices which can utilized for various pitch/capabilities presentations Work on estimations, provide necessary inputs for the project status, based on activities assigned and raise issues/concerns to the project lead on time.</DOMAINDES>
+<CNAME>TECHGENS</CNAME>
+<VACANCY>2</VACANCY>
+<PLACE>HYDERABAD</PLACE>
+<EMAIL>techie@gmail.com</EMAIL>
+<CONTACT>8597886754</CONTACT>
+</CD>
+
+<CD>
+<JNAME>SALES EXECUTIVE</JNAME>
+<DOMAINDES>Candidates with experience in B2B - Corporate Sales/ Real Estate will be preferred.Freshers with flair for Sales or knowledge of Real-Estate are welcome.</DOMAINDES>
+<CNAME>RVBUILDERS</CNAME>
+<VACANCY>5</VACANCY>
+<PLACE>COIMBATORE</PLACE>
+<EMAIL>rvsbuilders@gmail.com</EMAIL>
+<CONTACT>8900562001</CONTACT>
+</CD>
+
+<CD>
+<JNAME>BUSINESS DEVELOPMENT MANAGER</JNAME>
+<DOMAINDES>Improve an organization s market position and achieve financial growth.Select strategic goals, build key customer relationships, identifies business opportunities, negotiates and closes business deals and maintains extensive knowledge of current market conditions.</DOMAINDES>
+<CNAME>JK COMPUTERS</CNAME>
+<VACANCY>2</VACANCY>
+<PLACE>MUMBAI</PLACE>
+<EMAIL>jktech@gmail.com</EMAIL>
+<CONTACT>9645673324</CONTACT>
+</CD>
+
+<CD>
+<JNAME>SOFTWARE ENGINEER</JNAME>
+<DOMAINDES> Strong understanding of Design Patterns and ability to write clean and testable code,Self-starter and ability to deliver outcomes and values to our customers end-to-end at speed,Meticulous, excellent troubleshooting and communication skills</DOMAINDES>
+<CNAME>VIRUKSHA PVT LTD</CNAME>
+<VACANCY>3</VACANCY>
+<PLACE>CHENNAI</PLACE>
+<EMAIL>vktec@gmail.com</EMAIL>
+<CONTACT>9807897544</CONTACT>
+</CD>
+
+<CD>
+<JNAME>HR RECRUITER</JNAME>
+<DOMAINDES>If you have the passion to work with people and are excited by the thought of collaborating with an international audience, making a difference in peoples' lives around the world and of course growing your career in the HR Recruitment space, you should definitely interview with us.</DOMAINDES>
+<CNAME>PS3 PVT LTD</CNAME>
+<VACANCY>2</VACANCY>
+<PLACE>BENGALURU</PLACE>
+<EMAIL>prsol@gmail.com</EMAIL>
+<CONTACT>8796798041</CONTACT>
+</CD>
+
+</JOBDETAILS>
